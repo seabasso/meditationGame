@@ -1,0 +1,29 @@
+To play the game:
+
+Make sure you have the latest version of java installed. If you need to install it, go to this link: https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html#license-lightbox 
+
+
+On Mac:
+
+You only have to do this part once!
+
+1) Make sure you have the latest version of Java installed
+2) Open terminal:
+3) Type in "cd Downloads/meditationGame/src"
+4) Type "javac meditationGame.java" and press enter
+5) Type in "java meditationGame" and press enter and you should be good to go!
+
+For any subsequent plays of the game:
+1) Type in "cd Downloads/meditationGame/src"
+2) Type in "java meditationGame" and press enter!
+
+
+On Windows:
+You only have to do this part once!
+1) Type in "cd C:\Users\%USERNAME%\Downloads\meditationGame\src" where %USERNAME% is the name of your account username on your computer
+2) Type "javac meditationGame.java" and press enter
+3) Type in "java meditationGame" and press enter and you should be good to go!
+
+For any subsequent plays of the game:
+1) Type in "cd Downloads/meditationGame/src"
+2) Type in "java meditationGame" and press enter!

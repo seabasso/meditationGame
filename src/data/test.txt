@@ -1,0 +1,24 @@
+easy;what is 2 + 2?;4;2;6;1,382
+easy;What is the capital of the United States?;Washington, DC;London;Chicago;Tampa Bay
+easy;How many legs does a spider have?;Eight;Six;Two;Four
+easy;What element on the periodic table is represented by O?;Oxygen;Nitrogen;Hydrogen;Helium
+easy;Who invented the lightbulb?;Thomas Edison;Leonardo DaVinci;George Washington;Neil Armstrong
+easy;Which one of these is NOT a primary color?;purple;red;yellow;blue
+easy;If a shopping cart contains 1 apple, 2 bananas, 3 oranges, and 4 hot dogs, what percent of the cart’s total contents is fruit?;60%;75%;0%;80%
+easy;Solve the following equation: 3 + 2 / 1 = ____?;5;3;1;4
+medium;What is the volume of a sphere with radius 3?;36*pi;12*pi;24*pi;48*pi
+medium;When a cell divides into two identical daughter cells, this is known as _____;mitosis;meiosis;apoptosis;osmosis
+medium;Which type of triangle has two sides equal in length?;Isosceles;Equilateral;Scalene;Right
+medium;Which of these countries was not an Axis Power during world war II?;Russia;Japan;Italy;Germany
+medium;Which scientist is credited with the laws of motion?;Newton;Bohr;Einstein;Galileo
+medium;A haiku is a traditional poem from which country?;Japan;Korea;China;Vietnam;
+medium;What is the poetry device used when the same vowel sound occurs at the beginning of words in a sequence?;Assonance;Alliteration;Onomatopoeia;Repetition
+medium;An equation with x^2 is representative of what kind of formula?;Quadratic;Linear;Exponential;Polynomial
+hard;Ingested acetic acid is a common source of biochemical acetyl groups, including those that form acetyl-CoA. @Acetic acid dissociates in solution according to the following equation: CH3COOH <==> CH3COO- + H+. @If sodium acetate is added to a solution of acetic acid in excess water, which of the following effects would be observed in the solution?;Increased pH;Decreased pH;Decreased pKa;Increased pKa
+hard;Choose the solution to the partial differential equation @(d^2u / dx^2) = 9(d^2u / dy^2);e^(-3*pi*x) * sin(pi * y);cos(3x - y);x^2 + y^2;sin(3x - y)
+hard;Which of these chemical species is the strongest base?;CH3-;OH-;PO42-;H2O
+hard;What is the time complexity of adding an element to a PriorityQueue in Java?;O(logn);O(n);O(1);O(nlog n)
+hard;What is the one letter code for the amino acid which has a codon which doubles as a signal to start translation?;M;L;S;Y
+hard;Which one of these cells is NOT multinucleate?;Embryonic Stem Cells;Syncitiotrophoblasts;Skeletal Muscle Cells;Cardiac Muscle Cells
+hard;A fisherman catches a giant fish in a small lake and hauls it into his boat. @Fish have an average density equal to that of water. After removing the fish, @the water level of the lake will ___;Stay constant;increase drastically;decrease;increase slightly
+hard;In the Solow growth model, with a constant-return-to-scale Cobb-Douglas production function @with capital share alpha = 1/3, if the saving rate doubles and all other parameters stay constant, @the steady-state level of capital per capita increases by a factor of...;Approximately 2.83;1/3;2;0

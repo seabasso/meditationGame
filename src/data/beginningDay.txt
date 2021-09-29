@@ -1,0 +1,9 @@
+tired;sluggish;sheepish;exhausted;groggy;foggy;drained
+normal;awake;not bad at all;ready;neutral
+AMAZING;EXCITED;BRILLIANT;EMPOWERED;MOTIVATED;FANTASTIC
+ok;edible;bland;sad
+pretty good;tasty;well-made
+AMAZING;DELICIOUS;DELECTABLE;FANTASTIC;EXTRAVAGANT;
+a bowl of cereal, but there's no milk, so you just eat plain cheerios by themselves;some hard boiled eggs;some dry toast;some expired Eggo waffles;a piece of colby jack cheese;
+some toast with marmalade and orange juice;some Cinnamon Toast Crunch with 2% milk; some eggs which are scrambled (your second favorite);
+Eggs Benedict (Your absolute FAVORITE);Some homemade pancakes;a breakfast quesadilla;some homemade oatmeal
